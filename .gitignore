@@ -1,0 +1,5 @@
+godot-cpp
+*.os
+*.tscn
+.sconsign.dblite
+.vscode
